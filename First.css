@@ -1,0 +1,31 @@
+body
+{
+background-image: url("Wallpaperr.jpg");
+background-size: cover;
+}
+
+ul
+{	
+			list-style: none;
+			background-color: red;
+			height: 20px;
+			float: right;
+	
+}
+ul li
+{
+	
+			display: inline;
+
+}
+ul li a
+{
+			text-decoration: none;
+			color: white;
+			padding-right: 10px;
+			padding-left: 10px;
+			font-size: 20px;
+		
+	
+
+}
